@@ -6,12 +6,10 @@ This project provides a database blueprint for a government organization called 
 
 ##  Table of Contents
 
-* [Overview & Features](#-overview--features)
-* [Key Triggers](#-key-triggers)
-* [Database Schema](#-database-schema)
-* [Project Assumptions](#-project-assumptions)
-* [Installation](#-installation)
-* [Example Usage](#-example-usage)
+* Overview & Features
+* Key Triggers
+* Database Schema
+* Project Assumptions
 
 ##  Overview & Features
 
